@@ -24,4 +24,4 @@
 |   |    |(머피ML) 15 Gaussian processes (1) |김무성| [발표자료](https://github.com/psygrammer/remind/blob/master/part1/murphy/ch15/15_Gaussian_Processes.ipynb)|
 |   |    |(딥마인드) Learning to Learn by Gradient Descent by Gradient Descent |김무성|[발표자료](https://github.com/psygrammer/remind/blob/master/part1/deepmind/learning_to_learn/Learning_to_learn_by_gradient_descent_by_gradient_descent.ipynb) |
 |   |    |(딥마인드) Safe and Efficient Off-Policy Reinforcement Learning | 김영삼 |[참고자료](https://ewrl.files.wordpress.com/2016/12/munos.pdf) |
-|   |    |(딥러닝북) 18 Confronting the Partition Function (1) |이재영| |
+|   |    |(딥러닝북) 18 Confronting the Partition Function (1) |이재영|[발표자료](https://github.com/psygrammer/remind/blob/master/part1/deeplearningbook/Ch18/Ch%2018%20Confronting%20the%20Partition%20Function.ipynb) |
