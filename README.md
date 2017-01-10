@@ -20,7 +20,7 @@
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
-| 1 |1/4|(강화학습 실습) DeepMind Lab |  |
+| 1 |1/4|(강화학습 실습) DeepMind Lab | 김정주 | [발표자료](https://gist.github.com/haje01/8a854fc0ccfa6f742c3021345a1cf528)|
 |   |    |(머피ML) 15 Gaussian processes (1) |김무성||
 |   |    |(딥마인드) Learning to Learn by Gradient Descent by Gradient Descent |김무성| |
 |   |    |(딥마인드) Safe and Efficient Off-Policy Reinforcement Learning | 김영삼 | |
