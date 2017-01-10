@@ -8,11 +8,11 @@
 
 # 교재
 * PART I
-  * (강화학습 실습)
-  * (강화학습 이론) 
-  * (머피ML)
-  * (딥러닝북)
-  * (딥마인드)
+ - (강화학습 실습) 
+ - (강화학습 이론) 
+ - (머피ML)
+ - (딥러닝북)
+ - (딥마인드)
 
 # 커리큘럼
 <b>PART I (진행 중)</b>
@@ -23,5 +23,5 @@
 | 1 |1/4|(강화학습 실습) DeepMind Lab |  |
 |   |    |(머피ML) 15 Gaussian processes (1) |김무성||
 |   |    |(딥마인드) Learning to Learn by Gradient Descent by Gradient Descent |김무성| |
-|   |    |(딥마인드) Safe and Efficient Off-Policy Reinforcement Learning || |
+|   |    |(딥마인드) Safe and Efficient Off-Policy Reinforcement Learning | 김영삼 | |
 |   |    |(딥러닝북) 18 Confronting the Partition Function (1) |이재영| |
